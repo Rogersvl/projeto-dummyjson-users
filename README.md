@@ -5,13 +5,13 @@ FUNCIONALIDADES
 - Mapa com Localização de usuário
 - Paginação
 
-S
+
 TECNOLOGIAS
 - Next.js
 - react
 - JavaScript
 - TailwindCSS
-- DebounceS
+- Debounce
 - Leaflet
 
 
